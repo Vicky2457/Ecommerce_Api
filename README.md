@@ -137,12 +137,6 @@
     }
   </code></pre>
 
-  <h2>Contributing</h2>
 
-  <p>Feel free to contribute to this project by opening issues or creating pull requests.</p>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
